@@ -9,6 +9,10 @@
 
 Carousel which uses flexbox, and will scale to its largest piece of content.
 
+**__DEPRECATED__**
+
+This repository is now deprecated, since glidejs is equally lightweight, has more features, and is easy to integrate into Svelte.
+
 ### Demo
 
 To run a demo, check this project out and run `npm run dev`
